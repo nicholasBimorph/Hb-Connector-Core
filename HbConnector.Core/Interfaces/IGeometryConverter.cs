@@ -7,9 +7,14 @@ using HB.RestAPI.Core.Interfaces;
 
 namespace HbConnector.Core.Interfaces
 {
-    
-    public interface IGeometryConverter<in T>
+    /// <summary>
+    /// 
+    /// </summary>
+    /// <typeparam name="TGeometry">
+    /// The host application's geometry to convert from.
+    /// </typeparam>
+    public interface IGeometryConverter<in TGeometry>
     {
-        IHbObject ToHbType(T mesh);
+        IHbObject ToHbType(TGeometry geometry);
     }
 }

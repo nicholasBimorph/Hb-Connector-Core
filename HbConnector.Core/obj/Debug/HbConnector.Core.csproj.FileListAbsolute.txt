@@ -1,6 +1,5 @@
 C:\Users\nicho\Documents\Bimorph\Clients\HB\Workshops\HbConnector.Core\HbConnector.Core\bin\Debug\HbConnector.Core.dll
 C:\Users\nicho\Documents\Bimorph\Clients\HB\Workshops\HbConnector.Core\HbConnector.Core\bin\Debug\HbConnector.Core.pdb
-C:\Users\nicho\Documents\Bimorph\Clients\HB\Workshops\HbConnector.Core\HbConnector.Core\obj\Debug\HbConnector.Core.csprojAssemblyReference.cache
 C:\Users\nicho\Documents\Bimorph\Clients\HB\Workshops\HbConnector.Core\HbConnector.Core\obj\Debug\HbConnector.Core.csproj.CoreCompileInputs.cache
 C:\Users\nicho\Documents\Bimorph\Clients\HB\Workshops\HbConnector.Core\HbConnector.Core\obj\Debug\HbConnector.Core.dll
 C:\Users\nicho\Documents\Bimorph\Clients\HB\Workshops\HbConnector.Core\HbConnector.Core\obj\Debug\HbConnector.Core.pdb
