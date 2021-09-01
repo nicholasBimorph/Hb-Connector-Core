@@ -51,4 +51,8 @@
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>xcopy /y /d "$(ProjectDir)$(OutDir)" "%25AppData%25\Grasshopper\Libraries\HbConnector"
+xcopy /y /d "$(ProjectDir)$(OutDir)" "%25AppData%25\Autodesk\Revit\Addins\2021\HbConnector"</PostBuildEvent>
+  </PropertyGroup>
 </Project>
